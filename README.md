@@ -50,21 +50,15 @@ print(norm_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![norm of matrix op1](https://github.com/Tanug25/Norm-of-a-matrix/assets/138849166/af084a2c-5338-4d2e-9852-146c8687a96f)
 
 ### 2-Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![norm of matrix op2](https://github.com/Tanug25/Norm-of-a-matrix/assets/138849166/8ec79a24-4143-426c-83cb-ec61b44ed7ea)
 
 ### Infinity Norm of a Matrix
-<br>
-<br>
-<br>
+
 ![norm of matrix op3](https://github.com/Tanug25/Norm-of-a-matrix/assets/138849166/12cf7944-f304-4d86-bd91-9999d1a69f32)
 
 ## Result
